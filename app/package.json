@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@shopify/cli": "^3.53.0"
+  },
+
+  "scripts": {
+    "start": "node index.js"
+  }
+}

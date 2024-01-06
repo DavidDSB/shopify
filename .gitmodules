@@ -1,0 +1,3 @@
+[submodule "app/theme/dawn2"]
+	path = app/theme/dawn2
+	url = https://github.com/Shopify/dawn.git
